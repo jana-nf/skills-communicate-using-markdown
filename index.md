@@ -5,5 +5,20 @@
 ##### Colocando em prática as dicas sobre marcação de texto com Markdown `<H5>`
 ###### Obrigada `<H6>` 
 
+
 ![Traduzindo pixels](https://i.sstatic.net/rHVKc.png) 
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+var myVar = "Hello, world!";
 
